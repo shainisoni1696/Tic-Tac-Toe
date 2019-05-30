@@ -1,4 +1,4 @@
-<img src="http://raw.github.com/CharmySoft/tic-tac-toe-in-python/master/icons/icon.png" width="48"/>&nbsp;&nbsp;**Tic Tac Toe Online in Python**
+<img src="http://raw.github.com/CharmySoft/tic-tac-toe-in-python/master/icons/icon.png" width="48"/>&nbsp;&nbsp;**Tic Tac Toe**
 ========================
 
 Introduction
