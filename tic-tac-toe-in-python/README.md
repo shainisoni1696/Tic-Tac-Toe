@@ -1,7 +1,5 @@
 <img src="http://raw.github.com/CharmySoft/tic-tac-toe-in-python/master/icons/icon.png" width="48"/>&nbsp;&nbsp;**Tic Tac Toe Online in Python**
 ========================
-Details of this project can be found on the [Tic Tac Toe project page][2] under:  
-[*http://chenyumin.com/tic-tac-toe*][2]
 
 Introduction
 ------------------------
@@ -30,30 +28,3 @@ Screenshots
 ![Main Game Scene](/screenshots/gui-main-game-scene.png?raw=true "Main Game Scene")  
 
 ![About Scene](/screenshots/gui-about-scene.png?raw=true "About Scene")  
-
-
-References
-------------------------
-Please see the file [docs/REFERENCES.md](docs/REFERENCES.md).
-
-
-Licensing
-------------------------
-Please see the file named [LICENSE.md](LICENSE.md).
-
-
-Author
-------------------------
-* [Chen Yumin][3] 
-	founder of [CharmySoft][1]
-
-
-Contact
-------------------------
-* CharmySoft: [*http://www.CharmySoft.com/*][1]  
-* Chen Yumin: [*http://chenyumin.com*][3]  
-* Email: [*hello@chenyumin.com*](mailto:hello@chenyumin.com)  
-
-[1]: http://www.CharmySoft.com/ "CharmySoft"
-[2]: http://chenyumin.com/tic-tac-toe "Tic Tac Toe Online in Python"
-[3]: http://chenyumin.com "Chen Yumin"
