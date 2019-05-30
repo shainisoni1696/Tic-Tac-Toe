@@ -1,0 +1,67 @@
+[2019-04-28 16:01:34] INFO: Reserved port 8080
+[2019-04-28 16:01:34] INFO: Listening to port 8080
+[2019-04-28 16:01:51] INFO: Received connection from ('127.0.0.1', 54542)
+[2019-04-28 16:02:10] INFO: Received connection from ('127.0.0.1', 54544)
+[2019-04-28 16:02:10] INFO: Player 2 is matched with player 1
+[2019-04-28 16:16:20] INFO: Received connection from ('127.0.0.1', 54546)
+[2019-04-28 16:16:40] INFO: Received connection from ('127.0.0.1', 54548)
+[2019-04-28 16:16:40] INFO: Player 4 is matched with player 3
+[2019-04-28 16:17:05] WARNING: Player 3 connection lost.
+[2019-04-28 16:17:05] WARNING: Game between 4 and 3 is finished unexpectedly.
+[2019-04-28 22:57:34] INFO: Reserved port 8080
+[2019-04-28 22:57:34] INFO: Listening to port 8080
+[2019-04-28 22:58:03] INFO: Received connection from ('127.0.0.1', 35240)
+[2019-04-28 22:58:25] INFO: Received connection from ('127.0.0.1', 35246)
+[2019-04-28 22:58:25] INFO: Player 2 is matched with player 1
+[2019-04-28 22:59:34] INFO: Received connection from ('127.0.0.1', 35272)
+[2019-04-28 22:59:55] INFO: Received connection from ('127.0.0.1', 35288)
+[2019-04-28 22:59:55] INFO: Player 4 is matched with player 3
+[2019-04-28 23:24:32] INFO: Reserved port 8080
+[2019-04-28 23:24:32] INFO: Listening to port 8080
+[2019-04-28 23:27:27] INFO: Reserved port 8080
+[2019-04-28 23:27:27] INFO: Listening to port 8080
+[2019-04-28 23:27:49] INFO: Received connection from ('10.53.158.5', 40718)
+[2019-04-28 23:28:03] INFO: Received connection from ('10.53.158.5', 40720)
+[2019-04-28 23:28:03] INFO: Player 2 is matched with player 1
+[2019-04-28 23:28:31] WARNING: Player 1 connection lost.
+[2019-04-28 23:28:31] WARNING: Game between 2 and 1 is finished unexpectedly.
+[2019-04-28 23:35:41] WARNING: There is an error when trying to bind 8080
+[2019-04-28 23:37:29] INFO: Reserved port 2000
+[2019-04-28 23:37:29] INFO: Listening to port 2000
+[2019-04-28 23:51:29] INFO: Reserved port 2019
+[2019-04-28 23:51:29] INFO: Listening to port 2019
+[2019-04-28 23:55:36] INFO: Received connection from ('10.53.158.5', 48800)
+[2019-04-28 23:56:39] WARNING: Player 1 connection lost.
+[2019-04-28 23:59:04] INFO: Reserved port 8080
+[2019-04-28 23:59:04] INFO: Listening to port 8080
+[2019-04-28 23:59:24] INFO: Received connection from ('127.0.0.1', 35992)
+[2019-04-28 23:59:39] INFO: Received connection from ('127.0.0.1', 35994)
+[2019-04-28 23:59:39] INFO: Player 2 is matched with player 1
+[2019-04-28 23:59:58] WARNING: Player 2 connection lost.
+[2019-04-28 23:59:58] WARNING: Game between 2 and 1 is finished unexpectedly.
+[2019-04-29 00:03:31] INFO: Received connection from ('127.0.0.1', 35996)
+[2019-04-29 00:05:02] INFO: Received connection from ('127.0.0.1', 35998)
+[2019-04-29 00:05:02] INFO: Player 4 is matched with player 3
+[2019-04-29 00:06:54] INFO: Received connection from ('127.0.0.1', 36002)
+[2019-04-29 00:06:58] INFO: Received connection from ('127.0.0.1', 36004)
+[2019-04-29 00:06:58] INFO: Player 6 is matched with player 5
+[2019-04-29 00:09:04] WARNING: Player 4 connection lost.
+[2019-04-29 00:09:04] WARNING: Game between 4 and 3 is finished unexpectedly.
+[2019-04-29 09:34:36] INFO: Reserved port 2000
+[2019-04-29 09:34:36] INFO: Listening to port 2000
+[2019-04-29 09:36:44] INFO: Received connection from ('127.0.0.1', 49242)
+[2019-04-29 09:36:57] INFO: Received connection from ('127.0.0.1', 49244)
+[2019-04-29 09:36:57] INFO: Player 2 is matched with player 1
+[2019-04-29 10:34:55] INFO: Reserved port 2019
+[2019-04-29 10:34:55] INFO: Listening to port 2019
+[2019-04-29 10:35:25] INFO: Received connection from ('127.0.0.1', 43228)
+[2019-04-29 10:36:10] INFO: Received connection from ('127.0.0.1', 43230)
+[2019-04-29 10:36:10] INFO: Player 2 is matched with player 1
+[2019-04-29 10:39:29] INFO: Received connection from ('127.0.0.1', 43232)
+[2019-04-29 10:39:36] INFO: Received connection from ('127.0.0.1', 43234)
+[2019-04-29 10:39:36] INFO: Player 4 is matched with player 3
+[2019-04-29 10:40:52] INFO: Received connection from ('127.0.0.1', 43236)
+[2019-04-29 10:40:55] INFO: Received connection from ('127.0.0.1', 43238)
+[2019-04-29 10:40:55] INFO: Player 6 is matched with player 5
+[2019-04-29 10:41:26] WARNING: Player 6 connection lost.
+[2019-04-29 10:41:26] WARNING: Game between 6 and 5 is finished unexpectedly.
